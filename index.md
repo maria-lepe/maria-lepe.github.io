@@ -1,6 +1,6 @@
 ## Welcome to Maria's Homepage
 
-You can use the [editor on GitHub](https://github.com/maria-lepe/maria-lepe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can check out my LinkedIn [@Maria Lepe](https://www.linkedin.com/in/maria-lepe-/) to know a little bit about my work experience and expertise.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
